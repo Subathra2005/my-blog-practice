@@ -3,3 +3,13 @@ body.dark {
   color: #e0e0e0;
 }
 
+button.subscribe {
+  background-color: #007bff;
+  color: white;
+  padding: 10px 20px;
+}
+body.dark {
+  background-color: #121212;
+  color: #e0e0e0;
+}
+
